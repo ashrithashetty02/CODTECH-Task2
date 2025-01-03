@@ -1,5 +1,10 @@
-TASK-2:
+Name: Ashritha
+Company:CODTECH IT SOLUTIONS 
+Id:CTO8DFH
+Domain: Python Programming 
+Duration:December(2024)- january (2025)
 
+TASK-2:
 Overview of the project:
 STUDENT GRADE TRACKER
 The Student Grade Tracker is a Python program designed to manage and analyze student grades by allowing users to input grades for multiple subjects or assignments, calculate the average grade, and display a comprehensive performance summary. It determines the overall letter grade based on predefined thresholds and calculates the Grade Point Average (GPA) on a standard scale. The program ensures valid input, handles errors gracefully, and presents results clearly. It is a practical project for learning Python concepts such as loops, conditionals, data storage, and user-defined functions, with potential for enhancements like weighted grades, data visualization, or file storage integration.
